@@ -8,8 +8,16 @@ description = "Symbolic and numerical Maxwell scattering and tag-reader coupling
 requires-python = ">=3.10"
 dependencies = ["numpy>=1.26,<3", "scipy>=1.12,<2", "sympy>=1.12,<2", "matplotlib>=3.8,<4", "networkx>=3.2,<4", "PyYAML>=6,<7", "requests>=2.31,<3"]
 [project.optional-dependencies]
-lab = ["pytest>=8,<10", "nbformat>=5,<6", "nbclient>=0.10,<1", "ipykernel>=6,<8", "symengine>=0.13,<1"]
+lab = ["pytest>=8,<10", "nbformat>=5,<6", "nbclient>=0.10,<1", "ipykernel>=6,<8", "symengine>=0.13,<1", "jupyterlab>=4,<5", "ruff>=0.9,<1"]
 [tool.setuptools.packages.find]
 where = ["src"]
 [tool.pytest.ini_options]
 pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 79
+target-version = "py310"
+include = ["src/emlab/intervention.py", "src/emlab/lab2_*.py", "scripts/*lab2.py", "tests/test_intervention.py", "tests/test_lab2.py", "notebooks/lab2_interventions.ipynb"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]

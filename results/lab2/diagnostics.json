@@ -1,0 +1,834 @@
+{
+  "rlc_linear_baseline": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.5_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.5_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.5_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.5_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a0.5_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a1.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a1.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a1.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a1.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a1.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a2.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a2.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a2.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a2.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a2.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a4.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a4.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a4.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a4.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_linear_a4.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_baseline": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.5_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.5_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.5_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.5_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a0.5_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a1.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a1.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a1.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a1.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a1.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a2.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a2.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a2.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a2.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a2.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a4.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a4.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a4.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a4.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "rlc_soft_l1_a4.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_baseline": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.5_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.5_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.5_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.5_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a0.5_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a1.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a1.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a1.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a1.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a1.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a2.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a2.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a2.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a2.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a2.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a4.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a4.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a4.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a4.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_linear_a4.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_baseline": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.5_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.5_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.5_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.5_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a0.5_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a1.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a1.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a1.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a1.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a1.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a2.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a2.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a2.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a2.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a2.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a4.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a4.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a4.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a4.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_soft_l1_a4.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_baseline": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.5_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.5_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.5_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.5_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a0.5_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a1.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a1.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a1.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a1.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a1.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a2.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a2.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a2.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a2.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a2.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a4.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a4.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a4.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a4.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_linear_a4.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_baseline": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.5_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.5_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.5_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.5_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a0.5_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a1.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a1.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a1.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a1.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a1.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a2.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a2.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a2.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a2.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a2.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a4.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a4.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a4.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a4.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "water_soft_l1_a4.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_baseline": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.5_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.5_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.5_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.5_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a0.5_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a1.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a1.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a1.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a1.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a1.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a2.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a2.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a2.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a2.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a2.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a4.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a4.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a4.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a4.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_linear_a4.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_baseline": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.5_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.5_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.5_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.5_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a0.5_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a1.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a1.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a1.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a1.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a1.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a2.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a2.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a2.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a2.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a2.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a4.0_r0": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a4.0_r1": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a4.0_r2": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a4.0_r3": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  },
+  "silica_offset_soft_l1_a4.0_r4": {
+    "boundary_fraction": 0.0,
+    "point_boundary": false
+  }
+}

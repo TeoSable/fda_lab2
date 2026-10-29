@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="a1 term" />
+    <node id="n² - 1" />
+    <node id="a2 term" />
+    <node id="a3 term" />
+    <node id="c0" />
+    <edge source="a1 term" target="n² - 1" />
+    <edge source="a2 term" target="n² - 1" />
+    <edge source="a3 term" target="n² - 1" />
+    <edge source="c0" target="n² - 1" />
+  </graph>
+</graphml>

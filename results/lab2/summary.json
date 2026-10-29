@@ -1,0 +1,111 @@
+{
+  "config": {
+    "seed": 20261029,
+    "bootstrap_replicates": 300,
+    "intervention_repeats": 5,
+    "levels": [
+      0.0,
+      0.5,
+      1.0,
+      2.0,
+      4.0
+    ],
+    "losses": [
+      "linear",
+      "soft_l1"
+    ],
+    "example_alpha": 2.0,
+    "example_repeat": 0,
+    "confidence_quantiles": [
+      0.025,
+      0.975
+    ],
+    "material_train_points": 160,
+    "material_validation_points": 81,
+    "rlc_relative_tolerance": 0.05,
+    "material_tolerance": 0.0002,
+    "max_boundary_fraction": 0.05,
+    "notebook_timeout_seconds": 7200
+  },
+  "metadata": {
+    "rlc": {
+      "kind": "synthetic current from lab1",
+      "scale_A": 0.00032395488923171094
+    },
+    "silica": {
+      "name": "silica",
+      "url": "https://raw.githubusercontent.com/polyanskiy/refractiveindex.info-database/master/database/data/main/SiO2/nk/Malitson.yml",
+      "sha256": "00828e3d6ebabc2d49e98f5a2c665cd354893f53f9eb9670fb0bd71f5bdf8915",
+      "references": "1) I. H. Malitson.\nInterspecimen comparison of the refractive index of fused silica.\n<a href=\"https://doi.org/10.1364/JOSA.55.001205\"><i>J. Opt. Soc. Am.</i> <b>55</b>, 1205-1208 (1965)</a><br>\n2) C. Z. Tan.\nDetermination of refractive index of silica glass for infrared wavelengths by IR spectroscopy.\n<a href=\"https://doi.org/10.1016/S0022-3093(97)00438-9\"><i>J. Non-Cryst. Solids</i> <b>223</b>, 158-163 (1998)</a><br>\n* Sellmeier formula is reported in Ref. 1 for the 0.21–3.71 μm wavelength range. Ref. 2 verifies the validity of the formula up to 6.7 μm.\n",
+      "kind": "published dispersion fit, not raw field measurements",
+      "cache_mtime_utc": "2026-10-29T06:48:47.206487+00:00",
+      "upstream_record": {
+        "name": "silica",
+        "url": "https://raw.githubusercontent.com/polyanskiy/refractiveindex.info-database/master/database/data/main/SiO2/nk/Malitson.yml",
+        "sha256": "c587670f397241ecb93a1af3279d6fe7ed67888e587e399074b0eab729c92b52",
+        "references": "1) I. H. Malitson.\nInterspecimen comparison of the refractive index of fused silica.\n<a href=\"https://doi.org/10.1364/JOSA.55.001205\"><i>J. Opt. Soc. Am.</i> <b>55</b>, 1205-1208 (1965)</a><br>\n2) C. Z. Tan.\nDetermination of refractive index of silica glass for infrared wavelengths by IR spectroscopy.\n<a href=\"https://doi.org/10.1016/S0022-3093(97)00438-9\"><i>J. Non-Cryst. Solids</i> <b>223</b>, 158-163 (1998)</a><br>\n* Sellmeier formula is reported in Ref. 1 for the 0.21–3.71 μm wavelength range. Ref. 2 verifies the validity of the formula up to 6.7 μm.\n",
+        "retrieved_at_utc": "2026-10-29T04:35:32.226863+00:00",
+        "kind": "published dispersion fit, not raw field measurements"
+      },
+      "imposed_error": "2e-5*(1+lambda/lambda_max) in n^2-1",
+      "reference_coefficients": [
+        0.6961663,
+        0.4079426,
+        0.8974794
+      ],
+      "design_condition_number": 70.91335309026815
+    },
+    "water": {
+      "name": "water",
+      "url": "https://raw.githubusercontent.com/polyanskiy/refractiveindex.info-database/master/database/data/main/H2O/nk/Daimon-20.0C.yml",
+      "sha256": "1314cd76636a456a5fcef9646932a9a5b9f96c887e9762bf3b82e52a3cac3423",
+      "references": "M. Daimon and A. Masumura.\nMeasurement of the refractive index of distilled water from the near-infrared region to the ultraviolet region.\n<a href=\"https://doi.org/10.1364/AO.46.003811\"><i>Appl. Opt.</i> <b>46</b>, 3811-3820 (2007)</a>\n",
+      "kind": "published dispersion fit, not raw field measurements",
+      "cache_mtime_utc": "2026-10-29T06:48:47.206487+00:00",
+      "upstream_record": {
+        "name": "water",
+        "url": "https://raw.githubusercontent.com/polyanskiy/refractiveindex.info-database/master/database/data/main/H2O/nk/Daimon-20.0C.yml",
+        "sha256": "5c7ecfd88a13939f7801e3d4f2f8dc33c400f87952681ce59cd02b279ce82cb5",
+        "references": "M. Daimon and A. Masumura.\nMeasurement of the refractive index of distilled water from the near-infrared region to the ultraviolet region.\n<a href=\"https://doi.org/10.1364/AO.46.003811\"><i>Appl. Opt.</i> <b>46</b>, 3811-3820 (2007)</a>\n",
+        "retrieved_at_utc": "2026-10-29T04:38:00.965563+00:00",
+        "kind": "published dispersion fit, not raw field measurements"
+      },
+      "imposed_error": "2e-5*(1+lambda/lambda_max) in n^2-1",
+      "reference_coefficients": [
+        0.5684027565,
+        0.1726177391,
+        0.02086189578,
+        0.1130748688
+      ],
+      "design_condition_number": 196.89975704246817
+    },
+    "silica_offset": {
+      "name": "silica",
+      "url": "https://raw.githubusercontent.com/polyanskiy/refractiveindex.info-database/master/database/data/main/SiO2/nk/Malitson.yml",
+      "sha256": "00828e3d6ebabc2d49e98f5a2c665cd354893f53f9eb9670fb0bd71f5bdf8915",
+      "references": "1) I. H. Malitson.\nInterspecimen comparison of the refractive index of fused silica.\n<a href=\"https://doi.org/10.1364/JOSA.55.001205\"><i>J. Opt. Soc. Am.</i> <b>55</b>, 1205-1208 (1965)</a><br>\n2) C. Z. Tan.\nDetermination of refractive index of silica glass for infrared wavelengths by IR spectroscopy.\n<a href=\"https://doi.org/10.1016/S0022-3093(97)00438-9\"><i>J. Non-Cryst. Solids</i> <b>223</b>, 158-163 (1998)</a><br>\n* Sellmeier formula is reported in Ref. 1 for the 0.21–3.71 μm wavelength range. Ref. 2 verifies the validity of the formula up to 6.7 μm.\n",
+      "kind": "synthetic redundant constant added to silica model",
+      "cache_mtime_utc": "2026-10-29T06:48:47.206487+00:00",
+      "upstream_record": {
+        "name": "silica",
+        "url": "https://raw.githubusercontent.com/polyanskiy/refractiveindex.info-database/master/database/data/main/SiO2/nk/Malitson.yml",
+        "sha256": "c587670f397241ecb93a1af3279d6fe7ed67888e587e399074b0eab729c92b52",
+        "references": "1) I. H. Malitson.\nInterspecimen comparison of the refractive index of fused silica.\n<a href=\"https://doi.org/10.1364/JOSA.55.001205\"><i>J. Opt. Soc. Am.</i> <b>55</b>, 1205-1208 (1965)</a><br>\n2) C. Z. Tan.\nDetermination of refractive index of silica glass for infrared wavelengths by IR spectroscopy.\n<a href=\"https://doi.org/10.1016/S0022-3093(97)00438-9\"><i>J. Non-Cryst. Solids</i> <b>223</b>, 158-163 (1998)</a><br>\n* Sellmeier formula is reported in Ref. 1 for the 0.21–3.71 μm wavelength range. Ref. 2 verifies the validity of the formula up to 6.7 μm.\n",
+        "retrieved_at_utc": "2026-10-29T04:35:32.226863+00:00",
+        "kind": "published dispersion fit, not raw field measurements"
+      },
+      "imposed_error": "2e-5*(1+lambda/lambda_max) in n^2-1",
+      "reference_coefficients": [
+        0.6961663,
+        0.4079426,
+        0.8974794
+      ],
+      "design_condition_number": 3500.1892213890546,
+      "offset_true": 0.0
+    }
+  },
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "max_boundary_fraction": 0.0
+}

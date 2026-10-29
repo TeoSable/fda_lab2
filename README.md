@@ -1,5 +1,27 @@
 # Maxwell: EM scattering and tag-reader coupling
 
+## Лабораторная №2
+
+Выполненный отдельный ноутбук: [`notebooks/lab2_interventions.ipynb`](notebooks/lab2_interventions.ipynb).
+Выбранная тройка: остаточный бутстреп коэффициентов, условное Gaussian-зашумление отклика, одномерный Wasserstein-1.
+Параметры моделей и инструкция запуска: [`docs/LAB2_GUIDE.md`](docs/LAB2_GUIDE.md).
+Переиспользуемый код: `src/emlab/intervention.py`; результаты: `results/lab2/`.
+Окружение `.venv`, версии — `environment-lab2.txt`, раскрытие ИИ — `docs/AI_USAGE_LAB2.md`.
+
+Запуск JupyterLab: `.venv/Scripts/python.exe -m jupyterlab`.
+Для ноутбука выберите ядро **Python (EMLab — lab2)**.
+Регистрация ядра: `.venv/Scripts/python.exe scripts/setup_lab2.py`.
+Настройки находятся в `src/emlab/lab2_config.py`, рисунки —
+в `src/emlab/lab2_plots.py`. Пример `silica_offset` демонстрирует
+удаление дополнительного постоянного члена c₀ по общему правилу.
+
+```powershell
+.venv/Scripts/python.exe -m pytest -q
+.venv/Scripts/python.exe scripts/execute_lab2.py
+```
+
+Основные параметры — M и R₂ из RLC-модели первой работы. Материальные данные — опубликованные формулы дисперсии, а не сырые измерения; дополнительная ошибка для них искусственная. В ноутбуке это ограничение указано отдельно.
+
 Воспроизводимая лабораторная работа по символьному моделированию, решению уравнений Максвелла и идентификации параметров связанных контуров.
 
 ![3D Maxwell](results/maxwell_slices.png)
